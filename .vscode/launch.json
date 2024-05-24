@@ -1,0 +1,38 @@
+{
+    // IntelliSense를 사용하여 가능한 특성에 대해 알아보세요.
+    // 기존 특성에 대한 설명을 보려면 가리킵니다.
+    // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python 디버거: 인수가 있는 현재 파일",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            // "args": "${command:pickArgs}",
+            "args": [
+                "--yolo-model",
+                "C:/Users/User/Desktop/24-1/해상AI/code/ocean_ai/yolo_tracking-10.0.46/yolov5_2023.pt",
+                "--reid-model",
+                "lmbn_n_market.pt",
+                "--tracking-method",
+                "strongsort",
+                "--source",
+                "C:/Users/User/Desktop/24-1/해상AI/code/ocean_ai/yolo_tracking/data/video/L_085_EO_20230925_8.mp4",
+                "--save",
+                "--conf",
+                "0.67",
+                "--classes",
+                "0",
+                "2",
+                "3",
+
+            ],
+            
+            "justMyCode": false,
+            //"justMyCode": true,
+
+        }
+    ]
+}

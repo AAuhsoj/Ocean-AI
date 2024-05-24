@@ -1,0 +1,6 @@
+{
+    "ship_misc_misc": 0, "cargo_ship_misc": 1, "bulk_carrier": 2, "fishing_ship": 3, "other_structure": 4,
+    "lighthouse": 5, "ferry": 6, "wharf": 7, "yacht": 8, "boat": 9, "combat_support_ship": 10, "buoy": 11,
+    "destroyer": 12, "warship_misc": 13, "beacon": 14, "light_pole": 15, "other_float": 16,
+    "leisure_ship_misc": 17, "scout_boat": 18, "light_beacon": 19
+}

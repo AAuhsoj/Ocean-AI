@@ -1,0 +1,156 @@
+[
+  {
+    "location": "e-packages/torch/hub.py",
+    "line": [
+      {
+        "line": 564,
+        "character": 0
+      },
+      {
+        "line": 564,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "e-packages/torch/hub.py",
+    "line": [
+      {
+        "line": 567,
+        "character": 0
+      },
+      {
+        "line": 567,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "/predictor_origin_debug.py",
+    "line": [
+      {
+        "line": 272,
+        "character": 0
+      },
+      {
+        "line": 272,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "/predictor_origin_debug.py",
+    "line": [
+      {
+        "line": 339,
+        "character": 0
+      },
+      {
+        "line": 339,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "/predictor_origin_debug.py",
+    "line": [
+      {
+        "line": 341,
+        "character": 0
+      },
+      {
+        "line": 341,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "e-packages/ultralytics/engine/predictor.py",
+    "line": [
+      {
+        "line": 425,
+        "character": 0
+      },
+      {
+        "line": 425,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "/yolo_tracking-10.0.46/examples/track.py",
+    "line": [
+      {
+        "line": 2,
+        "character": 0
+      },
+      {
+        "line": 2,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "/yolo_tracking-10.0.46/examples/track.py",
+    "line": [
+      {
+        "line": 42,
+        "character": 0
+      },
+      {
+        "line": 42,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "/yolo_tracking-10.0.46/examples/track.py",
+    "line": [
+      {
+        "line": 50,
+        "character": 0
+      },
+      {
+        "line": 50,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "/yolo_tracking-10.0.46/examples/track.py",
+    "line": [
+      {
+        "line": 123,
+        "character": 0
+      },
+      {
+        "line": 123,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "/yolo_tracking-10.0.46/examples/detectors/yolov5.py",
+    "line": [
+      {
+        "line": 24,
+        "character": 0
+      },
+      {
+        "line": 24,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  }
+]

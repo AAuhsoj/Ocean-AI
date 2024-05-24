@@ -1,0 +1,1 @@
+--yolo-model C:/Users/User/Desktop/24-1/해상AI/code/ocean_ai/yolo_tracking-10.0.46/yolov5_2023.pt --reid-model lmbn_n_market.pt --tracking-method strongsort --source C:/Users/User/Desktop/24-1/해상AI/code/ocean_ai/yolo_tracking/data/video/L_085_EO_20230925_8.mp4 --save --conf 0.67 --classes 0 2 3

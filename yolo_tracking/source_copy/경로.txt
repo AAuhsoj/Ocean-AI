@@ -1,0 +1,5 @@
+__init__.py: /content/yolo_tracking/examples/detectors
+yolov5.py: /content/yolo_tracking/examples/detectors
+mot_challenge_2d_box.py: /content/yolo_tracking/examples/val_utils/trackeval/datasets
+- CLASSES_TO_EVAL, self.valid_classes, self.class_name_to_class_id 수정필요
+ops.py: /content/yolo_tracking/boxmot/utils/ops.py
